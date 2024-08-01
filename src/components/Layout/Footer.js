@@ -2,7 +2,7 @@ import React from "react";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import GitHubIcon from "@mui/icons-material/GitHub";
-import YouTubeIcon from "@mui/icons-material/YouTube";
+import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import { Box, Typography } from "@mui/material";
 const Footer = () => {
   return (
@@ -29,7 +29,7 @@ const Footer = () => {
           <InstagramIcon />
           <TwitterIcon />
           <GitHubIcon />
-          <YouTubeIcon />
+          <LinkedInIcon />
         </Box>
         <Typography
           variant="h5"
@@ -39,7 +39,7 @@ const Footer = () => {
             },
           }}
         >
-          All Rights Reserved &copy; Techinfo YT
+          All Rights Reserved &copy; Abhay Dewedi
         </Typography>
       </Box>
     </>

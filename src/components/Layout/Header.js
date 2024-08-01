@@ -72,7 +72,8 @@ const Header = () => {
               component="div"
               sx={{ flexGrow: 1 }}
             >
-              <img src={Logo} alt="logo" height={"70"} width="250" />
+              {/* <img src={Logo} alt="logo" height={"70"} width="250" /> */}
+              <h1>Urban Bites</h1>
             </Typography>
             <Box sx={{ display: { xs: "none", sm: "block" } }}>
               <ul className="navigation-menu">

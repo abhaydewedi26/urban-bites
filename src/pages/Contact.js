@@ -21,10 +21,10 @@ const Contact = () => {
       <Box sx={{ my: 5, ml: 10, "& h4": { fontWeight: "bold", mb: 2 } }}>
         <Typography variant="h4">Contact My Resturant</Typography>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem odio
-          beatae ducimus magni nobis culpa praesentium velit expedita quae,
-          corrupti, pariatur inventore laboriosam consectetur modi impedit
-          error, repudiandae obcaecati doloribus.
+        At Urban Bites , we're committed to providing an exceptional dining experience,
+         and that begins with how we connect with our guests. 
+         Whether you have a question about our menu, need to make a reservation, 
+         or simply want to share your thoughts with us, we're here to assist you in every way possible.
         </p>
       </Box>
       <Box
